@@ -5,4 +5,5 @@
 * The same goes for the break period as well.
 * Now once we have imported the required libraries, the next thing is to create a GUI interference.
 * Pomodoro means “Tomato” in Italian. In order to make this GUI look realistic, we will use a Tomato image as the background image. 
-* You can add the background image to the Tkinter application using the Canvas widget. Finally speaking about the final part of the project is to program the * countdown timer.
+* You can add the background image to the Tkinter application using the Canvas widget. Finally speaking about the final part of the project is to program the countdown timer.
+*Technologies used : python with tkinter
